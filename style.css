@@ -165,11 +165,9 @@ main h3 {
 }
 
 main ul{
-    text-indent: 10px;
+   text-indent: 10px;
     line-height: 30px;
     text-align: justify;
-
-    
 }
 
 .externo::after{
